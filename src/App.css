@@ -36,6 +36,10 @@
     transform: rotate(360deg);
   }
 }
+li{
+  margin-top: 2vw;
+  margin-right: 10vw;
+}
 li span{
  margin-left: 2vw;
  margin-right: 2vw;
@@ -43,7 +47,7 @@ li span{
 }
 li button{
   margin-right: 1vw;
-  width: 4vw;
+ width: 4vw;
   height: 3vw;
 }
 li button:hover{
